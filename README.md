@@ -576,36 +576,6 @@ Confirm that the task is created, updated, and deleted in Cloud Firestore.
 
 ---
 
-# 📹 Demonstration Video
-
-A short screen recording can demonstrate:
-
-```text
-Sign Up
-   ↓
-Sign In
-   ↓
-Create Task
-   ↓
-View Task
-   ↓
-Edit Task
-   ↓
-Mark Task Completed
-   ↓
-Delete Task
-   ↓
-Light/Dark Mode
-   ↓
-Sign Out
-```
-
-Demo video:
-
-**Add your YouTube or Google Drive video link here.**
-
----
-
 # ✅ Assignment Requirements
 
 | Requirement               | Implementation                       |
